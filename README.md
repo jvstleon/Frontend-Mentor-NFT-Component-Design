@@ -13,8 +13,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/scss-flexbox-nft-component-design-svhODlgJm
+- Live Site URL: https://jvstleon.github.io/Frontend-Mentor-NFT-Component-Design/
 
 
 ## Built with
